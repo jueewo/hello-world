@@ -8,4 +8,4 @@ What I do:
 * Computer simulation
 * Blockchain / AI 
 
-Please visit [jueewo ventures](jueewo.com) to learn more.
+Please visit [jueewo ventures](https://jueewo.com) to learn more.
